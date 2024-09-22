@@ -7,7 +7,7 @@ Este é um simples projeto de Sistema Bancario desenvolvido com a linguagem Pyth
 - VS Code: Editor de Código Fonte.
 - Python 3: Linguagem de programação.
 
-- ## Como Usar
+## Como Usar
 
 1. Clone este repositório:
 
